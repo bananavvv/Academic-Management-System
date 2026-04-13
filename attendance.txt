@@ -1,0 +1,7 @@
+S01,13/04/2025,Present,Operating Systems
+S02,08/04/2025,Absent,Database Management Systems
+S03,23/04/2025,Present,Penetration Testing
+S04,17/04/2025,Present,Modern Mathematics
+S05,28/04/2025,Absent,Programming with Python
+S01,21/08/25,Present,Thermodynamics
+

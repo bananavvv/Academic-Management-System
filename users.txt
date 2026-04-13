@@ -1,0 +1,14 @@
+admin,admin123,admin
+eva,eva123,student
+sarish,FIIO,student
+nirmal,nirmal06,student
+kuna,turtles,student
+pranaav,1121,student
+Dr.Strange,timestone,teacher
+Prof.X,xmen,teacher
+Mr.Seuss,lorax,teacher
+Dr.Octopus,spiderman,teacher
+Prof.Freddie,queen,teacher
+Mr.Prince,nelson,teacher
+staff,staff123,staff
+Mr.Danish,dn123,staff

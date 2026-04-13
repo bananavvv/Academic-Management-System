@@ -1,0 +1,6 @@
+C01,Operating Systems,RM3500
+C02,Database Management Systems,RM4000
+C03,Penetration Testing,RM5000
+C04,Modern Mathematics,RM2500
+C05,Programming with Python,RM4000
+C06,Thermodynamics,RM3000

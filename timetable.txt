@@ -1,0 +1,5 @@
+C01,Operating Systems,Tuesday (5PM-6PM),B-08-04
+C02,Database Management Systems,Tuesday (3:30pm-5:30pm),D-03-01
+C03,Penetration Testing,Monday 7AM - 9AM,D-07-07
+C04,Modern Mathematics,Thursday (8:30am-10:30am),D-07-07
+C05,Programming with Python,Friday (4:30pm-6:30pm),B-07-06

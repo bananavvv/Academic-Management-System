@@ -1,0 +1,6 @@
+C01,Operating Systems,fundamentals of CPU scheduling,Dr.Strange
+C02,Database Management Systems,introduction to SQL programming,Prof.X
+C03,Penetration Testing,learn basic pentesting skills with Kali Linux,Mr.Seuss
+C04,Modern Mathematics,fundementals of geometry and algebra,Dr.Octopus
+C05,Programming with Python,learn how to define functions and variables,Prof.Freddie
+C06,Thermodynamics,relation of heat and energy,Mr.Prince

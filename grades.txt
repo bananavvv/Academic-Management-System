@@ -1,0 +1,6 @@
+S01,C01,A+,Dr.Strange
+S02,C02,A-,Prof.X
+S03,C03,C+,Mr.Seuss
+S04,C04,A+,Dr.Octopus
+S05,C05,E (Marginal Fail),Prof.Freddie
+S01,C06,A+,Mr.Prince

@@ -1,0 +1,7 @@
+C01,Operating Systems Assignment,ops_assignment.pdf (Due Date: 24/05/2025)
+C02,Database Management Systems Assignment,dbms_assignment.pdf (Due Date: 16/05/2025)
+C03,Penetration Testing Assignment,kali_linux_assignment.pdf (Due Date: 21/05/2025)
+C04,Modern Mathematics Assignment,alegebra_level_5.pdf (Due Date: 21/05/2025)
+C05,Programming with Python Assignment,pwp_assignment.pdf (Due Date: 28/05/2025)
+C06,Thermodynamics Assignment,thermo_assignment.pdf (Due Date: 01/05/2025)
+
